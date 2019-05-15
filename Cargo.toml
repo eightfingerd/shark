@@ -1,0 +1,11 @@
+[package]
+name = "shark"
+version = "0.0.1"
+authors = ["efd<eightfingerd@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+description = "a lisp platform like Node.js"
+
+[dependencies]
+
